@@ -52,7 +52,7 @@
         android:layout_gravity="center"
         android:backgroundTint="#209E43"
         android:padding="20dp"
-        android:text="See Offers"
+        android:text="View Offer"
         android:textSize="25sp" />
 
 
